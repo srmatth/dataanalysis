@@ -12,9 +12,11 @@ Description: As a first year PhD student, I have had to do quite a few
   This package aims to automate some of the mundane but often time-
   consuming tasks such as creating large tables or making strings of
   confidence intervals.
-License: `use_mit_license()`, `use_gpl3_license()` or friends to pick a
-    license
+License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.1.1
+Suggests: 
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3
