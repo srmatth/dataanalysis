@@ -9,6 +9,8 @@
 experimental](https://img.shields.io/badge/lifecycle-experimental-orange.svg)](https://lifecycle.r-lib.org/articles/stages.html#experimental)
 [![Travis build
 status](https://travis-ci.com/srmatth/dataanalysis.svg?branch=main)](https://travis-ci.com/srmatth/dataanalysis)
+[![Codecov test
+coverage](https://codecov.io/gh/srmatth/dataanalysis/branch/main/graph/badge.svg)](https://codecov.io/gh/srmatth/dataanalysis?branch=main)
 <!-- badges: end -->
 
 A package containing functions that will aid in performing a data
