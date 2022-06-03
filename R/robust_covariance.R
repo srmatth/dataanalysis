@@ -52,7 +52,7 @@ robust.se.lm <- function( model) {
 
 #' Robust standard error computation for GLM
 #'
-#' @param model a model object created by `glm()`
+#' @param glm.obj a model object created by `glm()`
 #'
 #' @return a matrix containing the robust standard errors and confidence intervals
 robust.se.glm <- function(glm.obj){

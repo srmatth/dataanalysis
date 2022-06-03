@@ -7,7 +7,7 @@
 robust.se.glm(glm.obj)
 }
 \arguments{
-\item{model}{a model object created by \code{glm()}}
+\item{glm.obj}{a model object created by \code{glm()}}
 }
 \value{
 a matrix containing the robust standard errors and confidence intervals
