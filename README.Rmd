@@ -32,6 +32,10 @@ devtools::install_github("srmatth/dataanalysis")
 
 ## Basic Usage
 
+## Acknowledgements 
+
+A large portion of this code was adapted from [Professor Dan Gillen](https://dgillen.ics.uci.edu/).
+
 ## Code of Conduct
 
 Please note that the dataanalysis project is released with a [Contributor Code of Conduct](https://contributor-covenant.org/version/2/0/CODE_OF_CONDUCT.html). By contributing to this project, you agree to abide by its terms.
